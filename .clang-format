@@ -1,0 +1,6 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 4
+SpaceBeforeParens: Always
+AllowShortFunctionsOnASingleLine: false
+...
